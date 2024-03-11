@@ -1,5 +1,5 @@
 class API {
-  static const hostConnect = "http://192.168.0.12/taskmaster_api";
+  static const hostConnect = "http://tskmstr.kesug.com/taskmaster_api";
   static const hostConnectUser = "$hostConnect/user";
   static const hostConnectTask = "$hostConnect/task";
   static const hostConnectSubscription = "$hostConnect/subscription";
